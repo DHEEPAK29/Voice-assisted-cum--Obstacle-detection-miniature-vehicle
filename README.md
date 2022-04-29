@@ -6,4 +6,10 @@ The main objective of this project is to develop an IoT device/vehicle that obey
 Technologies used	: Arduino UNO, HC-05(Bluetooth module), Generic MotorcontrollerL293d.<br><br>
 Tool		: Arduino IDE 1.8.15, BT voice control for Arduino.<br>
 
+# Interface Approach
+
 <img src="Circuit_Implementation.jpg">
+
+# Block Approach
+
+<img src ="Bloack_Approach">
