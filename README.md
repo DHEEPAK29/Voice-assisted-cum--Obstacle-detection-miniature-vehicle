@@ -12,4 +12,4 @@ Tool		: Arduino IDE 1.8.15, BT voice control for Arduino.<br>
 
 # Block Approach
 
-<img src ="Block_Approach.jpg">
+<center><img src ="Block_Approach.jpg", width=50%, height= 100%></center>
