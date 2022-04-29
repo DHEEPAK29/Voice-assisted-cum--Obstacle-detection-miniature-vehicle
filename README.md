@@ -8,7 +8,7 @@ Tool		: Arduino IDE 1.8.15, BT voice control for Arduino.<br>
 
 # Interface Approach
 
-<img src="Circuit_Implementation.jpg", width=50%, height= 50%>
+<center><img src="Circuit_Implementation.jpg", width=50%, height= 50%></center>
 
 # Block Approach
 
